@@ -23,7 +23,7 @@ public class Ejecutable {
 		//Crear un Map llamado bandas que tenga como clave el género de música tocado por las bandas y como valor
 		// el nombre del solista de cada banda, barrio y la cantidad de integrantes.
 
-		//hola
+		a = "hola";
 	}
 
 }
